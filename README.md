@@ -13,3 +13,8 @@ This project focuses on the analysis of financial statements using a Large Langu
 + Streamlit: Web application framework for building the user interface.
 + LangChain: Facilitates querying and interacting with financial data.
 + ChromaDB: Database for storing processed financial data.
+
+### Usage :
++ Upload financial documents in PDF or CSV format.
++ Use the conversational interface to ask questions or request insights.
++ View generated visualizations and extracted insights.
